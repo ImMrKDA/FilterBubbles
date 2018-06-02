@@ -1,4 +1,4 @@
-# WEB14103: Web Design Principles
+# WEB14204: UX Design
 **Name:** Kevin Díaz  
 **Student number:** 96454416  
 **Course:** Web Media Production Level 2  
@@ -22,7 +22,7 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 ### Mapping your filter bubbles
 
 **Kevin paper and digital filter bubble.**
-![Kevin Paper Filter Bubble](KevinFilterBubble.jpeg)
+![Kevin Paper Filter Bubble](KevinFilterBubble.jpg)
 ![Kevin Digital Filter Bubble](KevinDigitalFilterBubble.jpg)
 
 **Kevin & Peyman Mola paper and digital filter bubbles.**
