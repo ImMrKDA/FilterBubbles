@@ -1,4 +1,4 @@
-#WEB14103: Web Design Principles
+# WEB14103: Web Design Principles
 **Name:** Kevin Díaz  
 **Student number:** 96454416  
 **Course:** Web Media Production Level 2  
@@ -6,7 +6,7 @@
 
 This is my hand-in package MarkDown file. In this file you will be able to see all my blog posts as well as the links to the different projects that I've done in this term.
 
-##Blogs posts
+## Blogs posts
 * [Week 1](http://fourthfloor.raveweb.net/karboleda/2016/12/05/eyebombing-web-design-principles/ ): EyeBombing
 * [Week 2](http://fourthfloor.raveweb.net/karboleda/2016/12/05/34/): OneTweet
 * [Week 3](http://fourthfloor.raveweb.net/karboleda/2016/12/05/union-hack-web-design-principles/): Union Hack
@@ -17,9 +17,9 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 * [Week 9](http://fourthfloor.raveweb.net/karboleda/2016/12/05/css-tricks-web-design-principles/): CSS tricks
 
 
-##Filter Bubbles
+## Filter Bubbles
 
-###Mapping your filter bubbles
+### Mapping your filter bubbles
 
 **Kevin paper and digital filter bubble.**
 ![Kevin Paper Filter Bubble](KevinFilterBubble.jpeg)
@@ -29,7 +29,7 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 ![Kevin & Peyman Paper Filter Bubble](KevinPeymanFilterBubble.jpg)
 ![Kevin Paper Filter Bubble](KEVINPEYMANDIGITALFILTERBUBBLE.jpg)
 
-###10 (or so) bad ideas
+### 10 (or so) bad ideas
 
 * A browser plug-in that warns you every time you type something in the internet
 
@@ -45,11 +45,11 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 
 * A website that builds up a fake cv of the user depending of where they’ve been into the Internet.
 
-###Interviews
+### Interviews
 
 [Interviews notes](https://docs.google.com/document/d/13cZ4-f7xku2AprcDzZ4Vqd7IbxhmdrUMtxMlN3peCgk/edit?usp=sharing)
 
-###Idea sheet
+### Idea sheet
 
 **What is your idea called?**
 
@@ -64,25 +64,26 @@ It's a website that builds up a fake CV of the user based on their history web, 
 The aim is to make people realise that the Internet is always watching us and all we post, share and search is saved for different purposes. It is really important to know that what we publish on the Internet someday can be found by our future boss, would people like that to happen?
 
 
-###Paper-prototypes
+### Paper-prototypes
 
 [Marvelapp Paper Prototype](https://marvelapp.com/580dh15)
 
-###Digital-prototype
+### Digital-prototype
 
 [Marvelapp Digital Prototype](https://marvelapp.com/daj7934)
 
-###User-testing feedback
+### User-testing feedback
 
 
-###Concept video
+### Concept video
 
 [Concept video](https://youtu.be/PrcYiCJq52Q)
 
-###Landing page
+### Landing page
 
 ![Landing page](LandingPage.png)
 
-###Summative Presentation
+
+### Summative Presentation
 
 [Summative Presentation]()
