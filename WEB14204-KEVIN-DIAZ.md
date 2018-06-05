@@ -88,4 +88,4 @@ The aim is to make people realise that the Internet is always watching us and al
 
 ## Summative Presentation
 
-[Summative Presentation]()
+[Summative Presentation](https://docs.google.com/presentation/d/1lnKwbhs2LQPmieOyLpOKKBx87FE_L2r6n0yLMJOlDyo/edit?usp=sharing)
