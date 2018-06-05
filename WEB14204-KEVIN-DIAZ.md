@@ -76,6 +76,7 @@ The aim is to make people realise that the Internet is always watching us and al
 
 ## User-testing feedback
 
+[User testing report](https://docs.google.com/document/d/19pLX3ZY5zC_MN7fMwvFkBcyr8LqOJMk8oUzmSu1um6E/edit?usp=sharing)
 
 ## Concept video
 
