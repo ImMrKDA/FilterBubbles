@@ -7,19 +7,22 @@
 This is my hand-in package MarkDown file. In this file you will be able to see all my blog posts as well as the links to the different projects that I've done in this term.
 
 ## Blogs posts
-* [Week 1](http://fourthfloor.raveweb.net/karboleda/2016/12/05/eyebombing-web-design-principles/ ): EyeBombing
-* [Week 2](http://fourthfloor.raveweb.net/karboleda/2016/12/05/34/): OneTweet
-* [Week 3](http://fourthfloor.raveweb.net/karboleda/2016/12/05/union-hack-web-design-principles/): Union Hack
-* [Week 4]( http://fourthfloor.raveweb.net/karboleda/2016/12/05/formative-presen…esign-principles/ ): Formative Assessment
-* [Week 5](http://fourthfloor.raveweb.net/karboleda/2016/12/05/peer-learning-web-design-principles/): Peer Learning
-* [Week 7](http://fourthfloor.raveweb.net/karboleda/2016/12/05/the-webs-grain-web-design-principles/): The Web's Grain
-* [Week 8](http://fourthfloor.raveweb.net/karboleda/2016/12/05/code-in-your-plate-web-design-principles/): Code in your plate
-* [Week 9](http://fourthfloor.raveweb.net/karboleda/2016/12/05/css-tricks-web-design-principles/): CSS tricks
+* [Data selfies](https://medium.com/@k.arboleda/data-selfies-bd0bf4d33ba5)
+
+* [Filter bubbles vs individual choices](https://medium.com/@k.arboleda/filter-bubbles-vs-individual-choices-fbe6ea9388)
+
+* [How to create effective surveys](https://medium.com/@k.arboleda/how-to-create-effective-surveys-d73974ef24)
+
+* [Inspiring projects](https://medium.com/@k.arboleda/inspiring-projects-661c3b1dca19)
+
+* [Formative Feedback](https://medium.com/@k.arboleda/formative-feedback-b8dbf82f3c0a)
+
+* [My landing page](https://medium.com/@k.arboleda/my-landing-page-842673f4065)
+
+* [What did I learn?](https://medium.com/@k.arboleda/what-did-i-learn-14d4578293bc)
 
 
-## Filter Bubbles
-
-### Mapping your filter bubbles
+## Mapping your filter bubbles
 
 **Kevin paper and digital filter bubble.**
 ![Kevin Paper Filter Bubble](KevinFilterBubble.jpg)
@@ -29,7 +32,7 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 ![Kevin & Peyman Paper Filter Bubble](KevinPeymanFilterBubble.jpg)
 ![Kevin Paper Filter Bubble](KEVINPEYMANDIGITALFILTERBUBBLE.jpg)
 
-### 10 (or so) bad ideas
+## 10 (or so) bad ideas
 
 * A browser plug-in that warns you every time you type something in the internet
 
@@ -45,11 +48,11 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 
 * A website that builds up a fake cv of the user depending of where they’ve been into the Internet.
 
-### Interviews
+## Interviews
 
 [Interviews notes](https://docs.google.com/document/d/13cZ4-f7xku2AprcDzZ4Vqd7IbxhmdrUMtxMlN3peCgk/edit?usp=sharing)
 
-### Idea sheet
+## Idea sheet
 
 **What is your idea called?**
 
@@ -63,27 +66,26 @@ It's a website that builds up a fake CV of the user based on their history web, 
 
 The aim is to make people realise that the Internet is always watching us and all we post, share and search is saved for different purposes. It is really important to know that what we publish on the Internet someday can be found by our future boss, would people like that to happen?
 
-
-### Paper-prototypes
+## Paper-prototypes
 
 [Marvelapp Paper Prototype](https://marvelapp.com/580dh15)
 
-### Digital-prototype
+## Digital-prototype
 
 [Marvelapp Digital Prototype](https://marvelapp.com/daj7934)
 
-### User-testing feedback
+## User-testing feedback
 
 
-### Concept video
+## Concept video
 
 [Concept video](https://youtu.be/PrcYiCJq52Q)
 
-### Landing page
+## Landing page
 
 ![Landing page](LandingPage.png)
 
 
-### Summative Presentation
+## Summative Presentation
 
 [Summative Presentation]()
